@@ -5,4 +5,5 @@ body {
 section {
     background-color: rgb(156, 66, 156);
     padding-bottom: 80px;
+    display:flex;
 }
